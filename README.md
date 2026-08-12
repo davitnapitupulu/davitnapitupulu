@@ -4,6 +4,8 @@
 
 **Backend &amp; Infrastructure Engineer**
 
+I build backend services and the infrastructure they run on.
+
 <br>
 
 ![Java](https://img.shields.io/badge/Java-8B6F47?style=flat-square&logo=openjdk&logoColor=FDFCF8&labelColor=8B6F47)
