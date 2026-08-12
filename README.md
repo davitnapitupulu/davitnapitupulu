@@ -1,8 +1,6 @@
 <div align="center">
 
-## Hi, I'm Davit
-
-**Backend & Infrastructure Engineer**
+<img src="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/main/assets/typing-header.svg" alt="Hi, I'm Davit - Backend & Infrastructure Engineer">
 
 I build backend services and the infrastructure they run on.
 
