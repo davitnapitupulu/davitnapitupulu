@@ -36,6 +36,18 @@ Open-source tools and templates under [**ProgrammerNewbie Studio**](https://gith
 &nbsp;&nbsp;**·**&nbsp;&nbsp;[**pharmacy-inventory-platform**](https://github.com/programmer-newbie-code/pharmacy-inventory-platform) — offline-first inventory and point-of-sale for Windows and Android.
 
 <br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake.svg">
+      <img alt="contribution snake animation" src="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake.svg">
+</picture>picture>
+
+</div>
+
+<br>
 <br>
 
 <div align="center">
