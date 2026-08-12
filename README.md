@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/main/assets/typing-header.svg?v=2" alt="test">
 
 ## Hi, I'm Davit
 
