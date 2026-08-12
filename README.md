@@ -24,6 +24,16 @@
 &nbsp;&nbsp;**·**&nbsp;&nbsp;Infrastructure as code. I'd rather describe a system in Terraform than click through a console.
 
 <br>
+
+### what i'm building
+
+Open-source tools and templates under [**ProgrammerNewbie**](https://github.com/programmer-newbie-code) — projects I'd have wanted when I was starting out.
+
+&nbsp;&nbsp;**·**&nbsp;&nbsp;[**kotlin-multimodule-template**](https://github.com/programmer-newbie-code/kotlin-multimodule-template) — clean multi-module Kotlin starter with CI. Spring, Ktor, or your own thing.
+
+&nbsp;&nbsp;**·**&nbsp;&nbsp;[**pharmacy-inventory-platform**](https://github.com/programmer-newbie-code/pharmacy-inventory-platform) — offline-first inventory and point-of-sale for Windows and Android.
+
+<br>
 <br>
 
 <div align="center">
