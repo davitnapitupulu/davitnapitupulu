@@ -43,7 +43,7 @@ Open-source tools and templates under [**ProgrammerNewbie Studio**](https://gith
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake.svg">
       <img alt="contribution snake animation" src="https://raw.githubusercontent.com/davitnapitupulu/davitnapitupulu/output/github-contribution-grid-snake.svg">
-</picture>picture>
+</picture>
 
 </div>
 
