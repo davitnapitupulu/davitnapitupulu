@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Davit;Backend+%26+Infrastructure+Engineer;Building+systems+that+are+boring+on+purpose." alt="Typing SVG" />
+## Hi, I'm Davit
+
+**Backend & Infrastructure Engineer**
 
 I build backend services and the infrastructure they run on.
 
@@ -35,12 +37,9 @@ Open-source tools and templates under [**ProgrammerNewbie Studio**](https://gith
 
 <br>
 
-### github stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davitnapitupulu&show_icons=true&theme=transparent&hide_border=true&title_color=8B6F47&icon_color=8B6F47&text_color=333" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davitnapitupulu&theme=transparent&hide_border=true&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47" height="165" />
+<img src="https://streak-stats.demolab.com/?user=davitnapitupulu&theme=transparent&hide_border=true&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47" height="165" />
 
 </div>
 
